@@ -9,7 +9,7 @@ from application import app
 
 SECRET_KEY = 'a secret key'
 app.config.from_object(__name__)
-GOOGLE_API_KEY='AIzaSyABFLOaM4Rtfkj5wJfHMgmXQTc58CvK9YQ'
+GOOGLE_API_KEY=<MY_SECRET_KEY>
 
 
 @app.route('/')
