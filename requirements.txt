@@ -18,6 +18,6 @@ ratelim==0.1.6
 requests==2.21.0
 six==1.12.0
 twilio==6.7.0
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.4.0
 Werkzeug==0.14.1
